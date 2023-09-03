@@ -7,7 +7,7 @@
 
 - 💬 You can contact me through my email **alexopera2015@gmail.com**
 
-- ⚡ Fun fact **I have always been a medical joker.**
+- ⚡ Fun fact **I have always been a joker man.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

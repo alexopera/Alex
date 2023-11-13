@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm Alex Opera</h1>
 <h1 align="center">💜💚❤️Welcome here💜💚❤️</h1>
 <h3 align="center">I am a dreamer who loves to trade and I live in France.</h3>
 
-- 🔭 I’m currently working on Foolad **iron**
+- 🔭 I’m currently working on Foolad Amin**iron**
 
 - 👯 I’m looking to collaborate on Crypto **Linea and NFT platform**
 

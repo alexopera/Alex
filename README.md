@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm Alex opera</h1>
 <h1 align="center">💜💚❤️Welcome Ny frens💜💚❤️</h1>
 <h3 align="center">I am a dreamer who loves to trade and I live in France and i like travel.</h3>
 

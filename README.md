@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex from france </h1>
-<h1 align="center">💜💚❤️Welcome my dear frens💜💚❤️</h1>
+<h1 align="center">💜💚Welcome my dear frens💜💚❤️</h1>
 <h3 align="center">I am a dreamer who loves to trade and I live in France and i like travel.</h3>
 
 - 🔭 I’m currently working on Foolad Amin**iron**
